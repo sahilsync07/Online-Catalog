@@ -1,5 +1,21 @@
 <template>
   <div class="p-4">
+    <!-- Last Updated Time with Refresh Button -->
+    <div class="flex items-center mb-4 space-x-4">
+      <p v-if="lastUpdated" class="text-sm text-gray-600">
+        Last updated: {{ formattedTime }}
+      </p>
+      <button
+        @click="refreshData"
+        :disabled="loading"
+        class="bg-blue-600 hover:bg-blue-700 disabled:bg-blue-300 text-white text-sm px-3 py-1 rounded shadow"
+        title="Refresh Stock Data"
+      >
+        <span v-if="loading">Refreshing...</span>
+        <span v-else>Refresh</span>
+      </button>
+    </div>
+
     <h1 class="text-2xl font-bold mb-6">Stock Groups</h1>
 
     <!-- Featured Groups with Logo Only -->
@@ -36,21 +52,48 @@
 import { ref, onMounted, computed } from "vue";
 import { useRouter } from "vue-router";
 
-// Use relative paths (not @) to avoid Windows space issues
 import paragonLogo from "../assets/group-logos/Paragon.jpg";
 import relianceLogo from "../assets/group-logos/Reliance.jpg";
 import cubixLogo from "../assets/group-logos/Cubix.jpg";
 import florexLogo from "../assets/group-logos/Florex.jpg";
 
 const stockGroups = ref([]);
+const lastUpdated = ref("");
+const loading = ref(false);
 const router = useRouter();
 
 const fetchStockSummary = async () => {
   try {
-    const res = await fetch("http://localhost:3000/api/tally/stock-summary");
-    stockGroups.value = await res.json();
+    const res = await fetch("/stock-summary.json");
+    const json = await res.json();
+    stockGroups.value = json.data;
+    lastUpdated.value = json.lastUpdated;
   } catch (error) {
     console.error("Error fetching stock summary:", error);
+  }
+};
+
+const refreshData = async () => {
+  loading.value = true;
+  try {
+    // Call your backend API at localhost:9000 to refresh JSON
+    const response = await fetch(
+      "http://localhost:9000/api/refresh-stock-summary",
+      {
+        method: "POST",
+      }
+    );
+    if (!response.ok) {
+      throw new Error("Failed to refresh data");
+    }
+
+    // Wait a little bit, then reload the updated JSON file
+    await fetchStockSummary();
+  } catch (err) {
+    console.error(err);
+    alert("Failed to refresh data from backend.");
+  } finally {
+    loading.value = false;
   }
 };
 
@@ -78,6 +121,21 @@ const otherGroups = computed(() =>
 const goToGroupDetails = (groupName) => {
   router.push({ name: "GroupDetails", params: { groupName } });
 };
+
+// Beautified last updated time
+const formattedTime = computed(() => {
+  if (!lastUpdated.value) return "";
+  const date = new Date(lastUpdated.value);
+  return date.toLocaleString("en-IN", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    hour12: true,
+  });
+});
 
 onMounted(() => {
   fetchStockSummary();

@@ -50,17 +50,10 @@ const groupDetails = ref([]);
 
 const fetchGroupDetails = async () => {
   try {
-    const res = await fetch(
-      `http://localhost:3000/api/tally/stock-summary/${encodeURIComponent(
-        groupName
-      )}`
-    );
-    if (res.ok) {
-      groupDetails.value = await res.json();
-    } else {
-      groupDetails.value = [];
-      console.error("Group not found");
-    }
+    const res = await fetch("/stock-summary.json");
+    const json = await res.json();
+    const groupData = json.data.find((group) => group.group === groupName);
+    groupDetails.value = groupData ? groupData.items : [];
   } catch (error) {
     console.error("Error fetching group details:", error);
   }
