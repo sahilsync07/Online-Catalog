@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-31T12:34:56.000Z",
+  "lastUpdated": "2025-06-07T06:50:38.038Z",
   "data": [
     {
       "group": "4WAY SPORT",
@@ -135,37 +135,31 @@
     },
     {
       "group": "AIRSUN",
-      "amount": -151666.55,
+      "amount": -256690.67,
       "items": [
         {
           "name": "AIRSON AL-03 (5*8) RS.130/-",
-          "quantity": "48 PCS",
+          "quantity": "26 PCS",
           "rate": 89.29,
-          "amount": -4285.73
+          "amount": -2321.44
         },
         {
           "name": "AIRSON AL-27 (5*8) RS.130/-",
-          "quantity": "48 PCS",
+          "quantity": "24 PCS",
           "rate": 89.29,
-          "amount": -4285.73
-        },
-        {
-          "name": "AIRSON AL-38 (4*7)RS.170/-",
-          "quantity": "36 PCS",
-          "rate": 116.07,
-          "amount": -4178.58
+          "amount": -2142.86
         },
         {
           "name": "AIRSON AL-56 (5*8) RS.130/-",
-          "quantity": "36 PCS",
+          "quantity": "6 PCS",
           "rate": 89.29,
-          "amount": -3214.3
+          "amount": -535.72
         },
         {
           "name": "AIRSON CRAZY-12 (11*1) RS.240/-",
-          "quantity": "38 PCS",
+          "quantity": "35 PCS",
           "rate": 169.64,
-          "amount": -6446.45
+          "amount": -5937.52
         },
         {
           "name": "AIRSON CRAZY-12(2*5) RS.250/-",
@@ -181,9 +175,9 @@
         },
         {
           "name": "AIRSON CRAZY-21(2*5) RS.250/-",
-          "quantity": "78 PCS",
+          "quantity": "74 PCS",
           "rate": 178.57,
-          "amount": -13928.61
+          "amount": -13214.32
         },
         {
           "name": "AIRSON DELITE (4*7) RS.95/-",
@@ -199,21 +193,45 @@
         },
         {
           "name": "AIRSON MAESTRO-1 (11*13) RS.165/-",
-          "quantity": "51 PCS",
+          "quantity": "224 PCS",
           "rate": 111.61,
-          "amount": -5691.98
+          "amount": -25000.08
         },
         {
           "name": "AIRSON MAESTRO-1 (1*3) RS.170/-",
-          "quantity": "71 PCS",
+          "quantity": "248 PCS",
           "rate": 116.07,
-          "amount": -8241.1
+          "amount": -28785.81
         },
         {
           "name": "AIRSON MAESTRO-1 (4*5) RS.175/-",
-          "quantity": "5 PCS",
+          "quantity": "137 PCS",
           "rate": 120.54,
-          "amount": -602.68
+          "amount": -16513.45
+        },
+        {
+          "name": "AIRSON SIKANDAR-1 (11*13) RS.170/-",
+          "quantity": "141 PCS",
+          "rate": 116.07,
+          "amount": -16366.12
+        },
+        {
+          "name": "AIRSON SIKANDAR-1 (1X3) RS.175/-",
+          "quantity": "144 PCS",
+          "rate": 120.54,
+          "amount": -17357.2
+        },
+        {
+          "name": "AIRSON SIKANDAR-1 (4X5)RS.180/-",
+          "quantity": "141 PCS",
+          "rate": 125,
+          "amount": -17625.06
+        },
+        {
+          "name": "AIRSON SIKANDAR-1 (6X9)RS.185/-",
+          "quantity": "108 PCS",
+          "rate": 133.93,
+          "amount": -14464.33
         },
         {
           "name": "AIRSON SPL-156 (2*5) RS.",
@@ -224,8 +242,8 @@
         {
           "name": "AIRSON SPL-156 (2*5) RS.95/-",
           "quantity": "-59 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "AIRSON STAR-39(1*3)Rs.180/-",
@@ -247,9 +265,9 @@
         },
         {
           "name": "AIRSUN ALL SPL (6*9) RS.115/-",
-          "quantity": "156 PCS",
+          "quantity": "152 PCS",
           "rate": 69.08,
-          "amount": -10776.23
+          "amount": -10499.92
         },
         {
           "name": "AIRSUN COMFORT-1 (6*7)/(6*8) RS.140/-",
@@ -259,9 +277,9 @@
         },
         {
           "name": "AIRSUN D-1/2/4 (4*6) RS.90/-",
-          "quantity": "137 PCS",
+          "quantity": "114 PCS",
           "rate": 61.07,
-          "amount": -8367.03
+          "amount": -6962.34
         },
         {
           "name": "AIRSUN DOCTOR ORTHO (6*9)RS.130/-",
@@ -283,9 +301,9 @@
         },
         {
           "name": "AIRSUN SAHELI-7/2/4 (4*6) RS.85/-",
-          "quantity": "33 PCS",
+          "quantity": "27 PCS",
           "rate": 59.45,
-          "amount": -1961.73
+          "amount": -1605.05
         },
         {
           "name": "AIRSUN SOFTY-16 (4*7)Rs.115/-",
@@ -295,9 +313,9 @@
         },
         {
           "name": "ASNLITE  ALL 5G (6*9)RS.110/-",
-          "quantity": "321 PCS",
+          "quantity": "290 PCS",
           "rate": 71.64,
-          "amount": -22997.4
+          "amount": -20776.47
         },
         {
           "name": "ASNLITE DLX BELLY (4*6)BLK MRP345/- (45%)",
@@ -313,9 +331,9 @@
         },
         {
           "name": "ASNLITE DLX SHOE (4*6)BLK MRP345/-(45%)",
-          "quantity": "38 PCS",
+          "quantity": "37 PCS",
           "rate": 106.03,
-          "amount": -4029.03
+          "amount": -3923.01
         },
         {
           "name": "ASNLITE SHARK (6*9) RS.120/-",
@@ -345,7 +363,7 @@
     },
     {
       "group": "CUBIX",
-      "amount": -360697.73,
+      "amount": -340429.8,
       "items": [
         {
           "name": "Cb 62202 (7*11) Mrp539/-",
@@ -391,9 +409,9 @@
         },
         {
           "name": "CBX 15007 (5*9) F GRN MRP329/-",
-          "quantity": "8 PCS",
+          "quantity": "2 PCS",
           "rate": 172.96,
-          "amount": -1383.68
+          "amount": -345.92
         },
         {
           "name": "CBX 15007 SKBLU (5X8) MRP329/-",
@@ -523,21 +541,15 @@
         },
         {
           "name": "CBX 24079 TAN(5X8) MRP399/-",
-          "quantity": "21 PCS",
+          "quantity": "15 PCS",
           "rate": 209.62,
-          "amount": -4402.02
+          "amount": -3144.3
         },
         {
           "name": "CBX 24080 TAN (5X8) MRP399/-",
-          "quantity": "12 PCS",
+          "quantity": "7 PCS",
           "rate": 209.62,
-          "amount": -2515.44
-        },
-        {
-          "name": "CBX 24084 BLK (5X8) MRP329/-",
-          "quantity": "10 PCS",
-          "rate": 172.96,
-          "amount": -1729.6
+          "amount": -1467.34
         },
         {
           "name": "CBX 24084 BLU (5X8) MRP329/-",
@@ -577,9 +589,9 @@
         },
         {
           "name": "CBX 30086 (5*10) GRN MRP319/-",
-          "quantity": "17 PCS",
+          "quantity": "11 PCS",
           "rate": 168.26,
-          "amount": -2860.42
+          "amount": -1850.86
         },
         {
           "name": "CBX 30086 GRAP (5X8) MRP319/-",
@@ -589,15 +601,9 @@
         },
         {
           "name": "CBX 30319 GRAP (5X8) MRP319/-",
-          "quantity": "21 PCS",
+          "quantity": "16 PCS",
           "rate": 168.26,
-          "amount": -3533.46
-        },
-        {
-          "name": "CBX 30319 GRN (5X8) MRP319/-",
-          "quantity": "9 PCS",
-          "rate": 168.26,
-          "amount": -1514.34
+          "amount": -2692.16
         },
         {
           "name": "Cbx 35001 (5*10) Mrp279/-",
@@ -655,9 +661,9 @@
         },
         {
           "name": "CBX 50049 (5*9) MULTI MRP299/-",
-          "quantity": "40 PCS",
+          "quantity": "34 PCS",
           "rate": 156.98,
-          "amount": -6279.2
+          "amount": -5337.32
         },
         {
           "name": "Cbx 50066 (5*9) Mrp369/-",
@@ -709,9 +715,9 @@
         },
         {
           "name": "CBX 50317 (5*9) GRN MRP379/-",
-          "quantity": "24 PCS",
+          "quantity": "18 PCS",
           "rate": 199.28,
-          "amount": -4782.72
+          "amount": -3587.04
         },
         {
           "name": "CBX 50509 (5*9) MRP389/-",
@@ -763,15 +769,9 @@
         },
         {
           "name": "CBX 60546 BLU (5*9) MRP299/-",
-          "quantity": "9 PCS",
+          "quantity": "3 PCS",
           "rate": 156.98,
-          "amount": -1412.82
-        },
-        {
-          "name": "CBX 60551 (5*9) MRP299/-",
-          "quantity": "8 PCS",
-          "rate": 156.98,
-          "amount": -1255.84
+          "amount": -470.94
         },
         {
           "name": "CBX 60556(5*9) MRP319/-",
@@ -805,9 +805,9 @@
         },
         {
           "name": "CBX 65536 (6*9) MRP379/-",
-          "quantity": "19 PCS",
+          "quantity": "14 PCS",
           "rate": 199.28,
-          "amount": -3786.32
+          "amount": -2789.92
         },
         {
           "name": "Cbx 66605 (5*9) Mrp320/-",
@@ -838,12 +838,6 @@
           "quantity": "1 PCS",
           "rate": 130.66,
           "amount": -130.66
-        },
-        {
-          "name": "CBX 67755 (5*9) BLK MRP329/-",
-          "quantity": "6 PCS",
-          "rate": 172.96,
-          "amount": -1037.76
         },
         {
           "name": "CBX 67765 (5*9) MRP299/-",
@@ -955,9 +949,9 @@
         },
         {
           "name": "CBX 76519 (5*9) BLK MRP319/-",
-          "quantity": "6 PCS",
+          "quantity": "1 PCS",
           "rate": 168.26,
-          "amount": -1009.56
+          "amount": -168.26
         },
         {
           "name": "CBX 76522 (5*8) CREAM MRP339/-",
@@ -997,9 +991,9 @@
         },
         {
           "name": "CBX 77051 (5*9) BGE MRP389/-",
-          "quantity": "13 PCS",
+          "quantity": "7 PCS",
           "rate": 204.92,
-          "amount": -2663.96
+          "amount": -1434.44
         },
         {
           "name": "CBX 77054 BRN (5*9) MRP379/-",
@@ -1141,9 +1135,9 @@
         },
         {
           "name": "CUBIX 50616 (5*9) MRP389/-GOLD",
-          "quantity": "8 PCS",
+          "quantity": "-4 PCS",
           "rate": 204.92,
-          "amount": -1639.36
+          "amount": 819.68
         },
         {
           "name": "CUBIX 60513 (5*9) MRP299/-",
@@ -1177,9 +1171,9 @@
         },
         {
           "name": "CUBIX C-60546 (5*9) MRP299/-BLK",
-          "quantity": "12 PCS",
+          "quantity": "6 PCS",
           "rate": 155.04,
-          "amount": -1860.5
+          "amount": -930.25
         },
         {
           "name": "Cubix C-65503 (5*9) Mrp359/-",
@@ -1225,9 +1219,9 @@
         },
         {
           "name": "Eeken",
-          "quantity": "932 PCS",
-          "rate": 320.5,
-          "amount": -298704.1
+          "quantity": "983 PCS",
+          "rate": 334.46,
+          "amount": -328777.01
         },
         {
           "name": "EEKEN 02175 LADIES MRP.799/-",
@@ -1239,13 +1233,13 @@
           "name": "Eeken 16101 Gents Mrp649/-",
           "quantity": "17 PCS",
           "rate": 331,
-          "amount": -5626.98
+          "amount": -5627
         },
         {
           "name": "EEKEN 16103 MRP649/-",
           "quantity": "3 PCS",
           "rate": 331,
-          "amount": -993
+          "amount": -993.01
         },
         {
           "name": "Eeken 16104 Gents Mrp.649/-",
@@ -1267,15 +1261,15 @@
         },
         {
           "name": "EEKEN 2137 BOYS (2*5)MRP354/-",
-          "quantity": "54 PCS",
+          "quantity": "48 PCS",
           "rate": 180.75,
-          "amount": -9760.52
+          "amount": -8676.01
         },
         {
           "name": "Eeken 2137 Mrp399/-",
-          "quantity": "92 PCS",
+          "quantity": "80 PCS",
           "rate": 203.5,
-          "amount": -18721.96
+          "amount": -16279.96
         },
         {
           "name": "EEKEN 2138 GENTS MRP329/-",
@@ -1285,9 +1279,9 @@
         },
         {
           "name": "EEKEN 2141 GENTS MRP359/-",
-          "quantity": "37 PCS",
+          "quantity": "25 PCS",
           "rate": 183.24,
-          "amount": -6780.06
+          "amount": -4581.12
         },
         {
           "name": "EEKEN 2153 GENTS MRP799/-",
@@ -1296,16 +1290,10 @@
           "amount": -815
         },
         {
-          "name": "EEKEN 2180 LDS MRP354/-",
-          "quantity": "4 PCS",
-          "rate": 180.75,
-          "amount": -723
-        },
-        {
           "name": "EEKEN 2181 LDS MRP 354/-",
-          "quantity": "48 PCS",
+          "quantity": "24 PCS",
           "rate": 180.75,
-          "amount": -8675.91
+          "amount": -4337.95
         },
         {
           "name": "Eeken 2408 Mrp499/-",
@@ -1321,9 +1309,9 @@
         },
         {
           "name": "EEKEN 4037 GENTS MRP699/-",
-          "quantity": "9 PCS",
+          "quantity": "81 PCS",
           "rate": 356.5,
-          "amount": -3208.5
+          "amount": -28876.39
         },
         {
           "name": "EEKEN 4038 GENTS MRP699/-",
@@ -1356,6 +1344,12 @@
           "amount": -4880.74
         },
         {
+          "name": "Eeken 6115 Gents Mrp659/-",
+          "quantity": "36 PCS",
+          "rate": 336.25,
+          "amount": -12104.94
+        },
+        {
           "name": "EEKEN 6133 GENTS MRP649/-",
           "quantity": "12 PCS",
           "rate": 331,
@@ -1383,7 +1377,7 @@
           "name": "EEKEN 6146 GENTS MRP679/-",
           "quantity": "8 PCS",
           "rate": 346.5,
-          "amount": -2771.96
+          "amount": -2771.97
         },
         {
           "name": "EEKEN 6154 GENTS MRP599/-",
@@ -1393,15 +1387,15 @@
         },
         {
           "name": "EEKEN 6160 LDS MRP609/-",
-          "quantity": "12 PCS",
+          "quantity": "6 PCS",
           "rate": 310.75,
-          "amount": -3729.04
+          "amount": -1864.52
         },
         {
           "name": "EEKEN 6161 GENTS MRP679/-",
-          "quantity": "51 PCS",
+          "quantity": "50 PCS",
           "rate": 346.5,
-          "amount": -17671.41
+          "amount": -17324.91
         },
         {
           "name": "EEKEN A160 GENTS MRP1499/-",
@@ -1422,12 +1416,6 @@
           "amount": -916.01
         },
         {
-          "name": "Eeken Fbr 6116 Gents Mrp679/-",
-          "quantity": "8 PCS",
-          "rate": 346.5,
-          "amount": -2772.01
-        },
-        {
           "name": "EEKEN FBR 6126 GENTS MRP649/-",
           "quantity": "11 PCS",
           "rate": 331.01,
@@ -1441,15 +1429,15 @@
         },
         {
           "name": "EEKEN FBR I6109 GENTS MRP659/-",
-          "quantity": "6 PCS",
+          "quantity": "42 PCS",
           "rate": 336.25,
-          "amount": -2017.51
+          "amount": -14122.48
         },
         {
           "name": "EEKEN FBR I6131 GENTS MRP649/-BRN",
           "quantity": "26 PCS",
           "rate": 331,
-          "amount": -8606.06
+          "amount": -8606.03
         },
         {
           "name": "EEKEN FEBRIC I6109 MRP649/-",
@@ -1471,9 +1459,9 @@
         },
         {
           "name": "EEKEN LDS 2179 MRP354/-",
-          "quantity": "11 PCS",
+          "quantity": "5 PCS",
           "rate": 180.75,
-          "amount": -1988.25
+          "amount": -903.75
         },
         {
           "name": "Eeken Sdle 04508 Gents Mrp699/-",
@@ -1543,15 +1531,9 @@
         },
         {
           "name": "Eeken Slider 2136 Mrp299/-",
-          "quantity": "37 PCS",
+          "quantity": "31 PCS",
           "rate": 152.5,
-          "amount": -5642.41
-        },
-        {
-          "name": "EEKEN SNEAKERS A228 BOYS (2X5) MRP.499/-",
-          "quantity": "8 PCS",
-          "rate": 254.5,
-          "amount": -2035.98
+          "amount": -4727.43
         },
         {
           "name": "EEKEN SPRT SHOE A515 LDS MRP999/-",
@@ -1585,9 +1567,15 @@
         },
         {
           "name": "Escoute",
-          "quantity": "150 PCS",
-          "rate": 172.22,
-          "amount": -25832.66
+          "quantity": "419 PCS",
+          "rate": 169.71,
+          "amount": -71109.22
+        },
+        {
+          "name": "ESCOTE 0347 GENTS MRP274/-",
+          "quantity": "48 PCS",
+          "rate": 155.22,
+          "amount": -7450.56
         },
         {
           "name": "Escote 0349 Gents Mrp269/-",
@@ -1602,10 +1590,16 @@
           "amount": -406.74
         },
         {
+          "name": "Escout 0344 Gnts Mrp389/-",
+          "quantity": "2 PCS",
+          "rate": 209.04,
+          "amount": -418.08
+        },
+        {
           "name": "ESCOUTE 0328 MRP 339/-",
-          "quantity": "13 PCS",
+          "quantity": "109 PCS",
           "rate": 192.04,
-          "amount": -2496.52
+          "amount": -20932.36
         },
         {
           "name": "Escoute 0346 Gents@209",
@@ -1614,16 +1608,22 @@
           "amount": -671.8
         },
         {
+          "name": "Escoute 0346 Gents Mrp274/-",
+          "quantity": "88 PCS",
+          "rate": 155.22,
+          "amount": -13659.36
+        },
+        {
           "name": "Escoute 0347 Mrp269/-",
-          "quantity": "28 PCS",
+          "quantity": "24 PCS",
           "rate": 150.22,
-          "amount": -4206.23
+          "amount": -3605.34
         },
         {
           "name": "Escoute 0349 Gents Mrp.274/-",
-          "quantity": "1 PCS",
-          "rate": 150.57,
-          "amount": -150.57
+          "quantity": "43 PCS",
+          "rate": 155.03,
+          "amount": -6666.45
         },
         {
           "name": "ESCOUTE 0353 MRP369/-",
@@ -1645,9 +1645,9 @@
         },
         {
           "name": "ESCOUTE 0358 MRP359/-",
-          "quantity": "33 PCS",
+          "quantity": "30 PCS",
           "rate": 200.76,
-          "amount": -6624.93
+          "amount": -6022.66
         },
         {
           "name": "ESCOUTE 0362 MRP269/-",
@@ -1665,7 +1665,7 @@
     },
     {
       "group": "Fencer",
-      "amount": -50147.72,
+      "amount": -48968.96,
       "items": [
         {
           "name": "Fancer Kia-1 Mrp275/-(40%)",
@@ -1675,9 +1675,9 @@
         },
         {
           "name": "Fancer Rio-3 Mrp245/-(40%)",
-          "quantity": "35 PCS",
+          "quantity": "31 PCS",
           "rate": 98.23,
-          "amount": -3438.05
+          "amount": -3045.13
         },
         {
           "name": "Fencer Ak-246 Rs.105/-",
@@ -1747,9 +1747,9 @@
         },
         {
           "name": "Fencer Rio-8 Mrp245/-(40%)",
-          "quantity": "66 PCS",
+          "quantity": "58 PCS",
           "rate": 98.23,
-          "amount": -6483.18
+          "amount": -5697.34
         },
         {
           "name": "Fener Lds 368 Rs.105/-",
@@ -1773,7 +1773,7 @@
     },
     {
       "group": "Florex (Swastik)",
-      "amount": -226265.1,
+      "amount": -217897.68,
       "items": [
         {
           "name": "KIDS PVC MEOW, JRRASIC (5*10) MRP368/-",
@@ -1789,9 +1789,9 @@
         },
         {
           "name": "SWASTIK ALIA LADIES (5X8) MRP289/-",
-          "quantity": "176 PCS",
+          "quantity": "153 PCS",
           "rate": 107.75,
-          "amount": -18963.21
+          "amount": -16485.06
         },
         {
           "name": "Swastik Bad Boy 11*13 Rs.299/-(45%)",
@@ -1813,9 +1813,9 @@
         },
         {
           "name": "SWASTIK BAD BOY (8*10) MRP289/-",
-          "quantity": "4 PCS",
+          "quantity": "1 PCS",
           "rate": 107.98,
-          "amount": -431.9
+          "amount": -107.98
         },
         {
           "name": "Swastik Barbie (11*13) Mrp289/-",
@@ -1849,9 +1849,9 @@
         },
         {
           "name": "SWASTIK CHERRY (11*13) MRP259/-",
-          "quantity": "16 PCS",
-          "rate": 95.35,
-          "amount": -1525.67
+          "quantity": "14 PCS",
+          "rate": 95.36,
+          "amount": -1334.97
         },
         {
           "name": "SWASTIK CHERRY (1*4) MRP269/-",
@@ -1891,15 +1891,15 @@
         },
         {
           "name": "SWASTIK CUTE (1*4) Mrp259/-",
-          "quantity": "9 PCS",
+          "quantity": "6 PCS",
           "rate": 95,
-          "amount": -854.98
+          "amount": -569.99
         },
         {
           "name": "SWASTIK DOLL-2 (1*4)MRP239/-",
           "quantity": "-1 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "SWASTIK FLES LADIES (5X8) MRP349/-",
@@ -1916,20 +1916,20 @@
         {
           "name": "SWASTIK GENTS FLORIDA (7*10)",
           "quantity": "-2 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "SWASTIK GERCON (5*8) MRP349/-",
-          "quantity": "54 PCS",
+          "quantity": "48 PCS",
           "rate": 128.17,
-          "amount": -6921.09
+          "amount": -6152.08
         },
         {
           "name": "SWASTIK GRAVITY (11*13) MRP299/-",
-          "quantity": "31 PCS",
+          "quantity": "28 PCS",
           "rate": 111.86,
-          "amount": -3467.53
+          "amount": -3131.97
         },
         {
           "name": "SWASTIK GRAVITY (1*3) MRP309/-",
@@ -1968,10 +1968,16 @@
           "amount": -1754.96
         },
         {
+          "name": "Swastik Khusbu (11*13) Mrp189/-",
+          "quantity": "-6 PCS",
+          "rate": 69.91,
+          "amount": 419.47
+        },
+        {
           "name": "Swastik Khusbu (1*3) Mrp199/-",
-          "quantity": "1 PCS",
+          "quantity": "-8 PCS",
           "rate": 73.79,
-          "amount": -73.79
+          "amount": 590.35
         },
         {
           "name": "SWASTIK KIDS FROOTY (11*13) MRP249/-",
@@ -2059,21 +2065,21 @@
         },
         {
           "name": "SWASTIK LDS MAHAK(5*8)MRP369/-",
-          "quantity": "26 PCS",
+          "quantity": "22 PCS",
           "rate": 135.94,
-          "amount": -3534.38
+          "amount": -2990.63
         },
         {
           "name": "SWASTIK LDS Z101/Z102/Z103/Z105 (5*8) MRP279/-",
-          "quantity": "89 PCS",
+          "quantity": "83 PCS",
           "rate": 104.06,
-          "amount": -9261.42
+          "amount": -8637.06
         },
         {
           "name": "SWASTIK LION KIDS (2*5) MRP309/-",
-          "quantity": "43 PCS",
+          "quantity": "39 PCS",
           "rate": 112.63,
-          "amount": -4843.1
+          "amount": -4392.58
         },
         {
           "name": "SWASTIK MAGGIE (5*8) MRP349/-",
@@ -2095,9 +2101,9 @@
         },
         {
           "name": "SWASTIK MOSCOW (8*10) MRP289/-",
-          "quantity": "14 PCS",
+          "quantity": "11 PCS",
           "rate": 107.98,
-          "amount": -1511.66
+          "amount": -1187.73
         },
         {
           "name": "SWASTIK ORRY KIDS (2*5) MP329/-",
@@ -2126,8 +2132,8 @@
         {
           "name": "SWASTIK RIYA KIDS (11X13) MRP.329/-",
           "quantity": "-6 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "SWASTIK RIYA KIDS (11X13) MRP.349/-",
@@ -2185,9 +2191,9 @@
         },
         {
           "name": "SWASTIK SWAROVSKI (5*8) MRP 439/-",
-          "quantity": "30 PCS",
+          "quantity": "24 PCS",
           "rate": 159.82,
-          "amount": -4794.6
+          "amount": -3835.68
         },
         {
           "name": "SWASTIK ULTRA SOFT 1/2 (5*8) MRP339/-",
@@ -2236,13 +2242,13 @@
           "quantity": "2 PCS",
           "rate": 308.04,
           "amount": -616.07
-        },
-        {
-          "name": "Hawai Chappal",
-          "quantity": "4317 PCS",
-          "rate": 75.45,
-          "amount": -325729.07
-        },
+        }
+      ]
+    },
+    {
+      "group": "Hawai Chappal",
+      "amount": -420046.38,
+      "items": [
         {
           "name": "033 Acusole (2*5)@109",
           "quantity": "12 PCS",
@@ -2251,9 +2257,9 @@
         },
         {
           "name": "Acusole 033 06*10 Mrp 144/-",
-          "quantity": "150 PCS",
-          "rate": 81.4,
-          "amount": -12210.69
+          "quantity": "342 PCS",
+          "rate": 81.44,
+          "amount": -27852.34
         },
         {
           "name": "Acusole033 Gents Mrp139/-",
@@ -2263,9 +2269,9 @@
         },
         {
           "name": "ACUSOLE 033 MRP134/-",
-          "quantity": "184 PCS",
+          "quantity": "180 PCS",
           "rate": 74.39,
-          "amount": -13688.1
+          "amount": -13390.53
         },
         {
           "name": "Acusole Hawai 0145 06*10 Mrp 139 /-",
@@ -2287,15 +2293,15 @@
         },
         {
           "name": "CUSHION (1*3) MRP124/-",
-          "quantity": "727 PCS",
-          "rate": 77.32,
-          "amount": -56214.85
+          "quantity": "598 PCS",
+          "rate": 77.33,
+          "amount": -46242.14
         },
         {
           "name": "CUSHION (4*5) MRP138/-",
-          "quantity": "549 PCS",
+          "quantity": "665 PCS",
           "rate": 86.03,
-          "amount": -47228.04
+          "amount": -57212.92
         },
         {
           "name": "Cushion Gents (6*9) Mrp.129/-",
@@ -2353,15 +2359,15 @@
         },
         {
           "name": "Flatlite Mrp144/-",
-          "quantity": "157 PCS",
-          "rate": 80.24,
-          "amount": -12597.83
+          "quantity": "311 PCS",
+          "rate": 80.88,
+          "amount": -25152.85
         },
         {
           "name": "Hawai Chappal Cushion (6*9) Mrp139/-",
-          "quantity": "546 PCS",
-          "rate": 86.68,
-          "amount": -47329.9
+          "quantity": "1343 PCS",
+          "rate": 86.69,
+          "amount": -116429.56
         },
         {
           "name": "Hawai Chappal Flatlite Gents Mrp149/-",
@@ -2383,21 +2389,21 @@
         },
         {
           "name": "Princess Ladies  Mrp 139/-",
-          "quantity": "40 PCS",
+          "quantity": "34 PCS",
           "rate": 86.21,
-          "amount": -3448.5
+          "amount": -2931.23
         },
         {
           "name": "Rubber Hawai Chappal Cushion (9*13) Mrp109/-",
-          "quantity": "561 PCS",
+          "quantity": "529 PCS",
           "rate": 68.01,
-          "amount": -38154.08
+          "amount": -35977.73
         }
       ]
     },
     {
       "group": "HITWAY",
-      "amount": -159753.79,
+      "amount": -159948.43,
       "items": [
         {
           "name": "HITWAY ACTIVE ON-208 MRP749/-",
@@ -2480,8 +2486,8 @@
         {
           "name": "HITWAY B-7 (4*6) MRP369/-(40%)",
           "quantity": "3 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "HITWAY B-7 BLK (10*11) MRP449/-",
@@ -2670,12 +2676,6 @@
           "amount": -1975.01
         },
         {
-          "name": "HITWAY RADO-25 MRP749/-(40%)",
-          "quantity": "2 PCS",
-          "rate": 282.15,
-          "amount": -564.29
-        },
-        {
           "name": "HITWAY RADO-26 MRP749(40%)",
           "quantity": "13 PCS",
           "rate": 282.14,
@@ -2760,12 +2760,6 @@
           "amount": -3125.01
         },
         {
-          "name": "HITWAY TOODLE-01 MRP899/-",
-          "quantity": "-2 PCS",
-          "rate": 379.47,
-          "amount": 758.93
-        },
-        {
           "name": "HITWAY TURBO-19 MRP749/-",
           "quantity": "13 PCS",
           "rate": 267.86,
@@ -2823,7 +2817,7 @@
     },
     {
       "group": "Kohinoor",
-      "amount": -56979.61,
+      "amount": -55324.72,
       "items": [
         {
           "name": "Badshaaaah (6*9) Rs.210",
@@ -2869,9 +2863,9 @@
         },
         {
           "name": "KNRG-1105(6*7)NEW RS.135/-",
-          "quantity": "60 PCS",
+          "quantity": "42 PCS",
           "rate": 91.94,
-          "amount": -5516.31
+          "amount": -3861.42
         },
         {
           "name": "Knrg Smart-3 (2*5)  RS.84/-",
@@ -2973,7 +2967,7 @@
     },
     {
       "group": "LEO",
-      "amount": -62760.21,
+      "amount": -59902.11,
       "items": [
         {
           "name": "LEO CINDRELLA ANKLE RS.240/-",
@@ -3013,9 +3007,9 @@
         },
         {
           "name": "LEO SOCK REEBOOK/NIKE/ADDIDAS RS.95/-",
-          "quantity": "101.00 BOX",
+          "quantity": "93.00 BOX",
           "rate": 57,
-          "amount": -5757
+          "amount": -5301
         },
         {
           "name": "LEO TIGER ANKLE RS.180/-",
@@ -3025,15 +3019,15 @@
         },
         {
           "name": "LEO TIGER ANKLE RS.190/-",
-          "quantity": "65 DOZ",
+          "quantity": "62 DOZ",
           "rate": 132,
-          "amount": -8580
+          "amount": -8184
         },
         {
           "name": "LEO TRMINATOR TERRY 3 PCS RS.85/-",
-          "quantity": "140.00 BOX",
+          "quantity": "132.00 BOX",
           "rate": 54.26,
-          "amount": -7596.71
+          "amount": -7162.61
         },
         {
           "name": "LEO VICTORY TERRY RS.270/-",
@@ -3061,21 +3055,21 @@
         },
         {
           "name": "LEO WINNER TERY RS.220/-",
-          "quantity": "26 DOZ",
+          "quantity": "20 DOZ",
           "rate": 170,
-          "amount": -4420
+          "amount": -3400
         },
         {
           "name": "LEO W TERRY RS.200/-",
-          "quantity": "89 DOZ",
+          "quantity": "85 DOZ",
           "rate": 138,
-          "amount": -12282
+          "amount": -11730
         }
       ]
     },
     {
       "group": "Magnet",
-      "amount": -209448.65,
+      "amount": -258763.91,
       "items": [
         {
           "name": "LOOSE AIR SHINE BOOT (6X9) RS.150/-",
@@ -3085,9 +3079,9 @@
         },
         {
           "name": "LOOSE AIR SHINE CHAPPALS (6X9) RS.120/-",
-          "quantity": "59 PCS",
+          "quantity": "55 PCS",
           "rate": 80.36,
-          "amount": -4741.3
+          "amount": -4419.86
         },
         {
           "name": "MAGNET APEXLITE 404 (4*9) RS.75/-",
@@ -3102,16 +3096,40 @@
           "amount": -4071.62
         },
         {
+          "name": "MAGNET ERA AP FOAM (6X9) RS.90/-",
+          "quantity": "144 PCS",
+          "rate": 53.57,
+          "amount": -7714.66
+        },
+        {
           "name": "MAGNET ERA CHAPAL (6*9)RS.95/-",
           "quantity": "12 PC",
           "rate": 66.97,
           "amount": -803.59
         },
         {
+          "name": "MAGNET ERA CROSS(6X9)CROCODILE RS.130/-",
+          "quantity": "234 PCS",
+          "rate": 78.87,
+          "amount": -18456.24
+        },
+        {
+          "name": "MAGNET ERA GENTS BOND (6X9)RS.120/-",
+          "quantity": "120 PCS",
+          "rate": 71.43,
+          "amount": -8571.84
+        },
+        {
+          "name": "MAGNET ERA LADIES SUPPER (4X8) RS.100/-",
+          "quantity": "144 PCS",
+          "rate": 66.97,
+          "amount": -9643.32
+        },
+        {
           "name": "MAGNET GENTS PARKAR HAWAI(6*9) RS.65/-",
-          "quantity": "538 PCS",
+          "quantity": "514 PCS",
           "rate": 47.46,
-          "amount": -25532.79
+          "amount": -24393.78
         },
         {
           "name": "MAGNET GENTS SUPER (6*9) RS.95/-",
@@ -3138,16 +3156,16 @@
           "amount": -1714.37
         },
         {
-          "name": "MAGNET KIDS CROSS(4X5)RS.125/-",
-          "quantity": "-7 PCS",
-          "rate": 80.36,
-          "amount": 562.53
+          "name": "MAGNET KIDS CROSS(4X5)CROCODILE RS.125/-",
+          "quantity": "139 PCS",
+          "rate": 78.13,
+          "amount": -10859.9
         },
         {
           "name": "MAGNET LADIES LOFFER (4*7) RS.75/-",
-          "quantity": "32 PC",
+          "quantity": "8 PC",
           "rate": 50.9,
-          "amount": -1628.65
+          "amount": -407.16
         },
         {
           "name": "MAGNET LADIES PUBJI RS.110/-",
@@ -3157,9 +3175,9 @@
         },
         {
           "name": "MAGNET LOOSE LDS PARKAR HAWAI (4*7) RS.70/-",
-          "quantity": "688 PCS",
+          "quantity": "640 PCS",
           "rate": 49.14,
-          "amount": -33808.72
+          "amount": -31449.97
         },
         {
           "name": "MAGNET NIKE (6*9) CLR RS.120/-",
@@ -3181,9 +3199,9 @@
         },
         {
           "name": "MAGNET PARKAR MOTA FITA (6*9) RS.75/-",
-          "quantity": "-474 PC",
-          "rate": null,
-          "amount": null
+          "quantity": "-522 PC",
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "MAGNET PARKAR MOTA FITA (6*9) RS.80/-",
@@ -3223,15 +3241,15 @@
         },
         {
           "name": "Parkar Hawai(Doreman)  9*1 Rs.40/-",
-          "quantity": "399 PCS",
+          "quantity": "369 PCS",
           "rate": 27.55,
-          "amount": -10991.77
+          "amount": -10165.32
         },
         {
           "name": "Parkar Hawai Small (6*8) Rs.38",
-          "quantity": "258 PCS",
+          "quantity": "234 PCS",
           "rate": 26.09,
-          "amount": -6730.5
+          "amount": -6104.41
         },
         {
           "name": "PARKAR LDS 070 HAWAI (4*7) RS.65/-",
@@ -3247,9 +3265,9 @@
         },
         {
           "name": "Max",
-          "quantity": "434 PCS",
-          "rate": 325.24,
-          "amount": -141152.77
+          "quantity": "492 PCS",
+          "rate": 318.2,
+          "amount": -156556.3
         },
         {
           "name": "Max 95117 Gents Mrp729/-",
@@ -3283,15 +3301,15 @@
         },
         {
           "name": "Max 99000 Gents Mrp.554/-",
-          "quantity": "32 PCS",
+          "quantity": "24 PCS",
           "rate": 285.96,
-          "amount": -9150.77
+          "amount": -6863.08
         },
         {
           "name": "Paragon Max 95115 Gents  Mrp729/-",
           "quantity": "5 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "PARAGON MAX 95151 GENTS MRP649/-",
@@ -3313,9 +3331,9 @@
         },
         {
           "name": "PARAGON MAX 9549 GENTS MRP.704/-",
-          "quantity": "38 PCS",
+          "quantity": "26 PCS",
           "rate": 363.19,
-          "amount": -13801.11
+          "amount": -9442.86
         },
         {
           "name": "Paragon Max 9559 Gants MRP619/-",
@@ -3331,9 +3349,9 @@
         },
         {
           "name": "PARAGON MAX 9613 MRP554/-",
-          "quantity": "-3 PCS",
+          "quantity": "-1 PCS",
           "rate": 304.42,
-          "amount": 913.27
+          "amount": 304.42
         },
         {
           "name": "Paragon Max 9617 Gents Mrp.479/-",
@@ -3356,8 +3374,8 @@
         {
           "name": "Paragon Max 99000 Gents Mrp469/-",
           "quantity": "1 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "Pg Max 95114 Gents Mp749/-",
@@ -3380,8 +3398,8 @@
         {
           "name": "PG MAX 95147 MRP 639/-",
           "quantity": "1 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "PG MAX 95148 MRP 649/-",
@@ -3391,9 +3409,9 @@
         },
         {
           "name": "PG MAX 9613 MRP504/-",
-          "quantity": "78 PCS",
-          "rate": 285.43,
-          "amount": -22263.16
+          "quantity": "136 PCS",
+          "rate": 285.44,
+          "amount": -38819.51
         },
         {
           "name": "Pg Max 9614 Gents Mrp549/-",
@@ -3412,6 +3430,12 @@
           "quantity": "16 PCS",
           "rate": 318.17,
           "amount": -5090.67
+        },
+        {
+          "name": "PG MAX 9637 GENTS MRP479/-",
+          "quantity": "18 PCS",
+          "rate": 271.35,
+          "amount": -4884.27
         },
         {
           "name": "PG MAX 9639 GENTS MRP499/-",
@@ -3441,7 +3465,7 @@
     },
     {
       "group": "NON BRAND",
-      "amount": -945300.57,
+      "amount": -977628.64,
       "items": [
         {
           "name": "Balaji",
@@ -3457,15 +3481,15 @@
         },
         {
           "name": "J.K Plastic",
-          "quantity": "2016 PCS",
-          "rate": 52.27,
-          "amount": -105379.27
+          "quantity": "1872 PCS",
+          "rate": 52.3,
+          "amount": -97908.79
         },
         {
           "name": "MARUTI PLASTICS",
-          "quantity": "4245 PCS",
-          "rate": 51.6,
-          "amount": -219041.68
+          "quantity": "4167 PCS",
+          "rate": 52.23,
+          "amount": -217661.68
         },
         {
           "name": "Mini F/w",
@@ -3487,9 +3511,9 @@
         },
         {
           "name": "R R POLYPLAST",
-          "quantity": "1415 PCS",
-          "rate": 93.05,
-          "amount": -131663.39
+          "quantity": "2196 PCS",
+          "rate": 81.52,
+          "amount": -179009.35
         },
         {
           "name": "Ruban F/w",
@@ -3504,40 +3528,34 @@
           "amount": -276
         },
         {
-          "name": "RESTO BLISS (4*8) RS.180/-",
-          "quantity": "30 PCS",
-          "rate": 125,
-          "amount": -3750.01
-        },
-        {
           "name": "RESTO DOLPHIN (4*8) RS.185/-",
-          "quantity": "36 PCS",
+          "quantity": "12 PCS",
           "rate": 129.47,
-          "amount": -4660.86
+          "amount": -1553.62
         },
         {
           "name": "RESTO GRACY (4*8) RS.175/-",
-          "quantity": "42 PCS",
+          "quantity": "12 PCS",
           "rate": 120.54,
-          "amount": -5062.51
+          "amount": -1446.43
         },
         {
           "name": "RESTO LEXUS (4*8) RS.185/-",
-          "quantity": "30 PCS",
+          "quantity": "5 PCS",
           "rate": 129.46,
-          "amount": -3883.94
+          "amount": -647.32
         },
         {
           "name": "RESTO LIYRA (4*8) RS.175/-",
-          "quantity": "30 PCS",
+          "quantity": "12 PCS",
           "rate": 120.54,
-          "amount": -3616.08
+          "amount": -1446.43
         },
         {
           "name": "R.K AIR STEP SHOE (5*10) RS.90/-",
-          "quantity": "276 PCS",
+          "quantity": "240 PCS",
           "rate": 60.08,
-          "amount": -16580.7
+          "amount": -14418
         },
         {
           "name": "R.K GENTS CROSS (N) RS.80/-(6X9)",
@@ -3547,15 +3565,15 @@
         },
         {
           "name": "R K KIDS CROSS (20X29) RS.40/-",
-          "quantity": "288 PC",
+          "quantity": "256 PC",
           "rate": 23.7,
-          "amount": -6824.8
+          "amount": -6066.49
         },
         {
           "name": "R.K KIDS CROSS (2X5) RS.70/-",
-          "quantity": "80 PCS",
+          "quantity": "62 PCS",
           "rate": 48.99,
-          "amount": -3919.58
+          "amount": -3037.68
         },
         {
           "name": "R.K KIDS DUGGU (18*23)RS.30/-",
@@ -3566,8 +3584,8 @@
         {
           "name": "R.K KIDS DUGGU (18*23)RS.45/-",
           "quantity": "-72 PC",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "R.K KIDS DUGGU (24*29) RS.50/-",
@@ -3577,9 +3595,9 @@
         },
         {
           "name": "R.K KIDS SANDAL AIRSTEP CHUNCHUN (15*20) RS.70/-",
-          "quantity": "-270 PC",
-          "rate": null,
-          "amount": null
+          "quantity": "-294 PC",
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "R.K KIDS SANDAL AIRSTEP CHUNCHUN (15*20) RS.80/-",
@@ -3594,22 +3612,22 @@
           "amount": -605
         },
         {
-          "name": "RK KIRAN (5*8) RS.30/-",
-          "quantity": "53 PCS",
-          "rate": 20.4,
-          "amount": -1081.11
+          "name": "RK KIRAN (5*8) RS.32/-",
+          "quantity": "977 PCS",
+          "rate": 20.48,
+          "amount": -20006.21
         },
         {
           "name": "R.K LADIES LOFFER (5X8) RS.50/-(Vkp)",
-          "quantity": "222 PCS",
+          "quantity": "120 PCS",
           "rate": 35,
-          "amount": -7770
+          "amount": -4200
         },
         {
           "name": "R K PAMCON DOUBLE CLR (6*10) RS.170/-",
-          "quantity": "80 PCS",
+          "quantity": "64 PCS",
           "rate": 115,
-          "amount": -9200
+          "amount": -7360
         },
         {
           "name": "R K PAMCON SINGLE CLR (6*10) RS.140/-",
@@ -3637,25 +3655,25 @@
     },
     {
       "group": "PARAGON",
-      "amount": -50169.18,
+      "amount": -39676.48,
       "items": [
         {
           "name": "BLOT SANDAL 9050 GENTS MRP675/-",
-          "quantity": "54 PCS",
+          "quantity": "42 PCS",
           "rate": 382.39,
-          "amount": -20649.08
+          "amount": -16060.4
         },
         {
           "name": "PARAGON GENTS 9183 MRP579/-",
-          "quantity": "34 PCS",
+          "quantity": "28 PCS",
           "rate": 328,
-          "amount": -11152.04
+          "amount": -9184.03
         },
         {
           "name": "PARAGON GENTS 9184 MRP579/-",
-          "quantity": "36 PCS",
+          "quantity": "30 PCS",
           "rate": 328,
-          "amount": -11808.04
+          "amount": -9840.03
         },
         {
           "name": "PARAGON GENTS 9185 MRP579/-",
@@ -3665,15 +3683,15 @@
         },
         {
           "name": "PARAGON GENTS 9186 MRP579/-",
-          "quantity": "12 PCS",
+          "quantity": "6 PCS",
           "rate": 328,
-          "amount": -3936.01
+          "amount": -1968.01
         },
         {
           "name": "Paragon Blot",
-          "quantity": "777 PCS",
-          "rate": 307.03,
-          "amount": -238563.7
+          "quantity": "741 PCS",
+          "rate": 304.19,
+          "amount": -225403.93
         },
         {
           "name": "Blot 3335 Gents Rp429/-",
@@ -3785,9 +3803,9 @@
         },
         {
           "name": "BLOT SANDAL 9085 MRP649.50/-",
-          "quantity": "136 PCS",
+          "quantity": "100 PCS",
           "rate": 365.55,
-          "amount": -49714.67
+          "amount": -36554.9
         },
         {
           "name": "BLOT SANDAL 9139E PV 499/-",
@@ -3965,15 +3983,15 @@
         },
         {
           "name": "Paralite",
-          "quantity": "5109 PCS",
-          "rate": 117.92,
-          "amount": -602462.68
+          "quantity": "5345 PCS",
+          "rate": 121.7,
+          "amount": -650469.42
         },
         {
           "name": "Eva Hawai 1920 Gents Mrp129.50/-",
-          "quantity": "7 PCS",
+          "quantity": "5 PCS",
           "rate": 77.15,
-          "amount": -540.07
+          "amount": -385.76
         },
         {
           "name": "PARAGON EVA V-STRAP 1489 MRP219/-",
@@ -3989,9 +4007,9 @@
         },
         {
           "name": "Paralite 1125 Gents Mrp159/-",
-          "quantity": "105 PCS",
+          "quantity": "97 PCS",
           "rate": 97.65,
-          "amount": -10252.8
+          "amount": -9471.64
         },
         {
           "name": "Paralite 1125 Gents Mrp165/-",
@@ -4008,20 +4026,20 @@
         {
           "name": "Paralite 1136 Gents Mrp.185/-",
           "quantity": "-11 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "Paralite 1136 Mrp130/-",
           "quantity": "9 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "Paralite 1136 Mrp169/-",
-          "quantity": "178 PCS",
+          "quantity": "158 PCS",
           "rate": 103.74,
-          "amount": -18466.06
+          "amount": -16391.22
         },
         {
           "name": "Paralite 1140 Gents Mrp199/-",
@@ -4037,9 +4055,9 @@
         },
         {
           "name": "Paralite 1170 Ladies Mrp179/-",
-          "quantity": "454 PCS",
+          "quantity": "430 PCS",
           "rate": 100.82,
-          "amount": -45774.24
+          "amount": -43354.46
         },
         {
           "name": "Paralite 1170 Mrp149.50/-",
@@ -4049,15 +4067,15 @@
         },
         {
           "name": "Paralite 1180 Gents Mrp229/-(4*5)",
-          "quantity": "2 PCS",
-          "rate": 142.21,
-          "amount": -284.42
+          "quantity": "34 PCS",
+          "rate": 140.69,
+          "amount": -4783.57
         },
         {
           "name": "Paralite 1180 Gents Mrp.239/-",
-          "quantity": "96 PCS",
+          "quantity": "70 PCS",
           "rate": 146.23,
-          "amount": -14038.41
+          "amount": -10236.34
         },
         {
           "name": "Paralite 1180 Gents Mrp249/-",
@@ -4079,9 +4097,9 @@
         },
         {
           "name": "Paralite 1190 (6*10) Mrp179/-",
-          "quantity": "684 PCS",
-          "rate": 109.75,
-          "amount": -75072.29
+          "quantity": "760 PCS",
+          "rate": 109.77,
+          "amount": -83426.4
         },
         {
           "name": "PARALITE 1190 (9*13) MRP169/-",
@@ -4091,9 +4109,9 @@
         },
         {
           "name": "Paralite 1210 Gents Mrp169/-",
-          "quantity": "287 PCS",
-          "rate": 103.65,
-          "amount": -29747.19
+          "quantity": "322 PCS",
+          "rate": 103.67,
+          "amount": -33382.03
         },
         {
           "name": "Paralite 1215 Ladies Mrp165/-",
@@ -4103,9 +4121,9 @@
         },
         {
           "name": "Paralite 1215 Lds Mrp149/-",
-          "quantity": "207 PCS",
+          "quantity": "172 PCS",
           "rate": 91.48,
-          "amount": -18937.32
+          "amount": -15735.36
         },
         {
           "name": "Paralite 1216 Lds Mrp114/-",
@@ -4116,14 +4134,14 @@
         {
           "name": "Paralite 1220 Ladies Mrp169/-",
           "quantity": "3 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "Paralite 1220 Mrp 149/-",
-          "quantity": "476 PCS",
+          "quantity": "459 PCS",
           "rate": 91.49,
-          "amount": -43550.72
+          "amount": -41995.34
         },
         {
           "name": "Paralite 1221 Gents Mrp164/-",
@@ -4193,9 +4211,9 @@
         },
         {
           "name": "Paralite 1406 Mrp184/-",
-          "quantity": "117 PCS",
+          "quantity": "105 PCS",
           "rate": 103.92,
-          "amount": -12158.88
+          "amount": -10911.81
         },
         {
           "name": "PARALITE 1417 MRP119/-",
@@ -4235,9 +4253,9 @@
         },
         {
           "name": "PARALITE 1454 MRP 159/-",
-          "quantity": "18 PCS",
+          "quantity": "12 PCS",
           "rate": 87.37,
-          "amount": -1572.62
+          "amount": -1048.41
         },
         {
           "name": "Paralite 1454 Mrp179/-",
@@ -4283,9 +4301,9 @@
         },
         {
           "name": "PARALITE 1476 GENTS MRP249/-",
-          "quantity": "80 PCS",
+          "quantity": "75 PCS",
           "rate": 140.96,
-          "amount": -11276.5
+          "amount": -10571.72
         },
         {
           "name": "PARALITE 1485 GENTS MRP389/-",
@@ -4300,6 +4318,12 @@
           "amount": -6978.82
         },
         {
+          "name": "PARALITE 1490 GENTS MRP299/-",
+          "quantity": "54 PCS",
+          "rate": 169.38,
+          "amount": -9146.75
+        },
+        {
           "name": "Paralite 16015 Gents Mrp249/-",
           "quantity": "1 PCS",
           "rate": 129.23,
@@ -4307,39 +4331,45 @@
         },
         {
           "name": "PARALITE 16048 GENTS (30 PAIR) MRP354/-",
-          "quantity": "334 PCS",
-          "rate": 182.57,
-          "amount": -60978.74
+          "quantity": "390 PCS",
+          "rate": 182.73,
+          "amount": -71263.46
         },
         {
           "name": "PARALITE 16049 GENTS (30 PAIRS) MRP354/-",
-          "quantity": "313 PCS",
-          "rate": 182.74,
-          "amount": -57197.85
+          "quantity": "380 PCS",
+          "rate": 182.82,
+          "amount": -69472.89
         },
         {
           "name": "Paralite 16062 Gents Mrp.359/-",
-          "quantity": "32 PCS",
-          "rate": 185.73,
-          "amount": -5943.38
+          "quantity": "87 PCS",
+          "rate": 185.86,
+          "amount": -16169.75
+        },
+        {
+          "name": "PARALITE 16063 GENTS MRP364/-",
+          "quantity": "60 PCS",
+          "rate": 188.92,
+          "amount": -11335.2
         },
         {
           "name": "Paralite 1650 Mrp219/-",
-          "quantity": "11 PCS",
-          "rate": 122.63,
-          "amount": -1348.88
+          "quantity": "59 PCS",
+          "rate": 123.79,
+          "amount": -7303.76
         },
         {
           "name": "PARALITE 1654 MRP219/-",
-          "quantity": "11 PCS",
+          "quantity": "6 PCS",
           "rate": 124.06,
-          "amount": -1364.66
+          "amount": -744.36
         },
         {
           "name": "PARALITE 1721 E MRP209/ PV",
-          "quantity": "274 PCS",
+          "quantity": "213 PCS",
           "rate": 117.7,
-          "amount": -32249.66
+          "amount": -25069.99
         },
         {
           "name": "Paralite 1740 Gents Mrp209/-",
@@ -4361,9 +4391,9 @@
         },
         {
           "name": "PARALITE 1753 GENTS MRP234/-",
-          "quantity": "137 PCS",
+          "quantity": "125 PCS",
           "rate": 131.28,
-          "amount": -17985.86
+          "amount": -16410.46
         },
         {
           "name": "Paralite 1758 Mp299/-",
@@ -4379,15 +4409,15 @@
         },
         {
           "name": "Paralite 2501 Gents Mrp.169/-",
-          "quantity": "29 PCS",
+          "quantity": "28 PCS",
           "rate": 95.74,
-          "amount": -2776.46
+          "amount": -2680.72
         },
         {
           "name": "Paralite 2502 Gents Mrp.189/-",
-          "quantity": "47 PCS",
+          "quantity": "39 PCS",
           "rate": 107.07,
-          "amount": -5032.29
+          "amount": -4175.73
         },
         {
           "name": "Paralite 2507 Mrp129/-",
@@ -4409,9 +4439,9 @@
         },
         {
           "name": "Paralite 2511 Gents Mrp.129/-",
-          "quantity": "9 PCS",
-          "rate": 67.01,
-          "amount": -603.13
+          "quantity": "8 PCS",
+          "rate": 67.02,
+          "amount": -536.12
         },
         {
           "name": "Paralite 2512 Mrp129/-",
@@ -4457,9 +4487,9 @@
         },
         {
           "name": "PG CLOGS 1474 GENTS MRP379/-",
-          "quantity": "44 PCS",
+          "quantity": "40 PCS",
           "rate": 211.02,
-          "amount": -9284.84
+          "amount": -8440.76
         },
         {
           "name": "P-Toes 1210 Boys Mrp159/-",
@@ -4469,9 +4499,9 @@
         },
         {
           "name": "P-TOES",
-          "quantity": "1998 PC",
-          "rate": 141.36,
-          "amount": -282438.23
+          "quantity": "2146 PC",
+          "rate": 132.63,
+          "amount": -284618.04
         },
         {
           "name": "Fookiddies",
@@ -4602,8 +4632,14 @@
         {
           "name": "P-Toes 1125 Boys(1-3)@105",
           "quantity": "3 PC",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
+        },
+        {
+          "name": "P-Toes 1125 Boys(1*3) Mrp129.50/-",
+          "quantity": "15 PCS",
+          "rate": 77.75,
+          "amount": -1166.25
         },
         {
           "name": "P-Toes 1125 Boys(4*5)@120",
@@ -4613,9 +4649,15 @@
         },
         {
           "name": "P-Toes 1125 Boys (4-5) Rs.156/-",
-          "quantity": "86 PCS",
+          "quantity": "80 PCS",
           "rate": 95.84,
-          "amount": -8242.53
+          "amount": -7667.47
+        },
+        {
+          "name": "P-Toes  1125 Boys (9-13)@95",
+          "quantity": "192 PCS",
+          "rate": 52.79,
+          "amount": -10135.27
         },
         {
           "name": "P-Toes 1136 (4*5) Mrp179/-",
@@ -4649,9 +4691,9 @@
         },
         {
           "name": "P-Toes 1190 Boys (4-5) Mrp.176/-",
-          "quantity": "239 PCS",
+          "quantity": "227 PCS",
           "rate": 107.45,
-          "amount": -25681.27
+          "amount": -24391.84
         },
         {
           "name": "P-Toes 1190 Boys (9-13) Mrp.134.50/-",
@@ -4691,9 +4733,9 @@
         },
         {
           "name": "P-Toes 16048 (2*5) Mrp314/-",
-          "quantity": "76 PCS",
+          "quantity": "44 PCS",
           "rate": 177.23,
-          "amount": -13469.26
+          "amount": -7797.99
         },
         {
           "name": "P-TOES 16048 MRP299/-",
@@ -4703,9 +4745,9 @@
         },
         {
           "name": "P-TOES 16049 2*5 MRP314/-",
-          "quantity": "215 PCS",
+          "quantity": "206 PCS",
           "rate": 176.69,
-          "amount": -37989.24
+          "amount": -36398.99
         },
         {
           "name": "P-Toes 16049 Boys  Mrp.299/-",
@@ -4944,8 +4986,8 @@
         {
           "name": "P-Toes 6767 Boys (2X5) Mrp.274/-",
           "quantity": "7 PCS",
-          "rate": 154.11,
-          "amount": -1078.76
+          "rate": 154.72,
+          "amount": -1083.06
         },
         {
           "name": "P-TOES 6767 BOYS (8*11) MRP229/-",
@@ -4963,7 +5005,7 @@
     },
     {
       "group": "PU-LION",
-      "amount": -42852.94,
+      "amount": -42092.22,
       "items": [
         {
           "name": "PU-LION 1300 (7*10) RS.180/-(1329)",
@@ -4979,9 +5021,9 @@
         },
         {
           "name": "PU LION CHAMP-04/2 (5*10) RS.180/-",
-          "quantity": "17 PCS",
+          "quantity": "11 PCS",
           "rate": 126.79,
-          "amount": -2155.36
+          "amount": -1394.64
         },
         {
           "name": "PU-LION GRAND-1 /04 (6*9) MRP789/-(45%)",
@@ -5035,13 +5077,13 @@
     },
     {
       "group": "RELIANCE FOOTWEAR",
-      "amount": -374120.08,
+      "amount": -359158.45,
       "items": [
         {
           "name": "RELAINCE SC-2015 (4*7) MAGNET MRP289/-",
-          "quantity": "18 PCS",
-          "rate": 156.34,
-          "amount": -2814.13
+          "quantity": "13 PCS",
+          "rate": 156.74,
+          "amount": -2037.61
         },
         {
           "name": "RELIAE XMS-9032 (7*10) GRY MRP499/-",
@@ -5063,9 +5105,9 @@
         },
         {
           "name": "RELIANCE FK-4151 WHITE (2*5) MRP299/-",
-          "quantity": "18 PCS",
+          "quantity": "14 PCS",
           "rate": 165.83,
-          "amount": -2984.92
+          "amount": -2321.6
         },
         {
           "name": "RELIANCE FM-5036 NVY(6*8) MRP199/-",
@@ -5123,9 +5165,9 @@
         },
         {
           "name": "RELIANCE FM-5200 (6*9) LGT GRY MRP399/-",
-          "quantity": "36 PCS",
+          "quantity": "30 PCS",
           "rate": 226.02,
-          "amount": -8136.64
+          "amount": -6780.53
         },
         {
           "name": "RELIANCE FM-5270 (6*9) GRY MRP219/-",
@@ -5267,9 +5309,9 @@
         },
         {
           "name": "RELIANCE JC-1105 BLK (6X9) MRP.359/-",
-          "quantity": "12 PCS",
+          "quantity": "6 PCS",
           "rate": 195,
-          "amount": -2340.02
+          "amount": -1170.01
         },
         {
           "name": "RELIANCE JC-1114 (6*9) BLK MRP239/-",
@@ -5303,9 +5345,9 @@
         },
         {
           "name": "RELIANCE JC-1146 (6*10) BRN MRP259/-",
-          "quantity": "36 PCS",
+          "quantity": "30 PCS",
           "rate": 140.68,
-          "amount": -5064.62
+          "amount": -4220.52
         },
         {
           "name": "RELIANCE JC-1146 BLK(6*10) MRP259/-",
@@ -5417,9 +5459,9 @@
         },
         {
           "name": "RELIANCE SC-2015 (4*7) BLK MRP289/-",
-          "quantity": "62 PCS",
-          "rate": 156.3,
-          "amount": -9690.67
+          "quantity": "57 PCS",
+          "rate": 156.65,
+          "amount": -8928.91
         },
         {
           "name": "RELIANCE SC-2015 (4*7) NVY MRP289/-",
@@ -5525,9 +5567,9 @@
         },
         {
           "name": "RELIANCE SC-2103 (6*7) BLK MRP299/-",
-          "quantity": "24 PCS",
+          "quantity": "18 PCS",
           "rate": 162.41,
-          "amount": -3897.86
+          "amount": -2923.39
         },
         {
           "name": "RELIANCE SC-2113 (4*7) BLK MRP299/-",
@@ -5609,9 +5651,9 @@
         },
         {
           "name": "RELIANCE XMS-9000 GREY (6X9) MRP.599/-",
-          "quantity": "12 PCS",
+          "quantity": "6 PCS",
           "rate": 325.37,
-          "amount": -3904.41
+          "amount": -1952.21
         },
         {
           "name": "RELIANCE XMS-9012 (6*10) GRY MRP699/-",
@@ -5687,15 +5729,9 @@
         },
         {
           "name": "RELIANCE XMS-9028 NVY(6*9) MRP529/-",
-          "quantity": "12 PCS",
+          "quantity": "-1 PCS",
           "rate": 286.99,
-          "amount": -3443.91
-        },
-        {
-          "name": "RELIANCE  XMS-9030 (6*9) MRP529/- BLK",
-          "quantity": "6 PCS",
-          "rate": 285.54,
-          "amount": -1713.23
+          "amount": 286.99
         },
         {
           "name": "RELIANCE XMS-9031 (6*8) BLK MRP529/-",
@@ -5753,9 +5789,9 @@
         },
         {
           "name": "RELIANCE XMT-9000 NVY(6*10) MRP469/-",
-          "quantity": "10 PCS",
+          "quantity": "6 PCS",
           "rate": 254.75,
-          "amount": -2547.52
+          "amount": -1528.51
         },
         {
           "name": "RELLIANCE SC-2107 (4*7)PEACH MRP299/-",
@@ -5765,9 +5801,9 @@
         },
         {
           "name": "Safety",
-          "quantity": "49 PCS",
-          "rate": 347.18,
-          "amount": -17012
+          "quantity": "47 PCS",
+          "rate": 346.59,
+          "amount": -16289.89
         },
         {
           "name": "Eva Gum Boot 0725 Mrp419/-",
@@ -5783,15 +5819,15 @@
         },
         {
           "name": "Tuffboot 0704 Gents Mrp629/-",
-          "quantity": "42 PCS",
+          "quantity": "40 PCS",
           "rate": 361.05,
-          "amount": -15164.13
+          "amount": -14442.02
         },
         {
           "name": "School",
-          "quantity": "1498 PCS",
+          "quantity": "1494 PCS",
           "rate": 139.77,
-          "amount": -209378.74
+          "amount": -208811.97
         },
         {
           "name": "DRL SCHOOL SHOE BOY-1 BLK(1*3) MRP288/-",
@@ -5825,9 +5861,9 @@
         },
         {
           "name": "DRL SCHOOL SHOE GIRL-4 BLK (4X6) MRP313/-",
-          "quantity": "72 PCS",
+          "quantity": "71 PCS",
           "rate": 111.61,
-          "amount": -8035.74
+          "amount": -7924.13
         },
         {
           "name": "DRL SCHOOL SHOE GOLA-111 BLK (4X5) MRP450/-",
@@ -5874,8 +5910,8 @@
         {
           "name": "School Shoe 711 Boys(8*11)@259",
           "quantity": "8 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "School Shoe 770 Boys 8*11@309",
@@ -5921,9 +5957,9 @@
         },
         {
           "name": "School Shoe 792(7*10) Kids Mrp259/-",
-          "quantity": "12 PCS",
+          "quantity": "10 PCS",
           "rate": 134.42,
-          "amount": -1613.04
+          "amount": -1344.2
         },
         {
           "name": "School Shoe 794(1*3) Mrp299/-",
@@ -5948,12 +5984,6 @@
           "quantity": "110 PCS",
           "rate": 181.13,
           "amount": -19924.29
-        },
-        {
-          "name": "SCHOOL SHOE 797(7*10) MRP359/-",
-          "quantity": "1 PCS",
-          "rate": 186.32,
-          "amount": -186.32
         },
         {
           "name": "School Shoe 872 (4*6) Mrp359/-",
@@ -6005,9 +6035,9 @@
         },
         {
           "name": "Solea & Meriva , Mascara",
-          "quantity": "1922 PCS",
-          "rate": 169.26,
-          "amount": -325308.58
+          "quantity": "1862 PCS",
+          "rate": 169.1,
+          "amount": -314866.84
         },
         {
           "name": "Mascara 5023 Mrp339/-",
@@ -6142,12 +6172,6 @@
           "amount": -890.22
         },
         {
-          "name": "Meriva 2346 Mrp319/-",
-          "quantity": "4 PCS",
-          "rate": 180.71,
-          "amount": -722.84
-        },
-        {
           "name": "MERIVA 2348 LDS MRP319/-",
           "quantity": "10 PCS",
           "rate": 175.29,
@@ -6161,9 +6185,9 @@
         },
         {
           "name": "MERIVA 2370 MRP349/-",
-          "quantity": "15 PCS",
+          "quantity": "11 PCS",
           "rate": 168.05,
-          "amount": -2520.81
+          "amount": -1848.59
         },
         {
           "name": "Meriva 2372 Mrp349/-",
@@ -6245,9 +6269,9 @@
         },
         {
           "name": "SOELA 7097 LDS MRP324/-",
-          "quantity": "103 PCS",
+          "quantity": "73 PCS",
           "rate": 181.73,
-          "amount": -18718.11
+          "amount": -13266.23
         },
         {
           "name": "SOELA 7248 LDS MRP249/-",
@@ -6305,9 +6329,9 @@
         },
         {
           "name": "SOLEA 7068 LDS MRP149/-",
-          "quantity": "26 PCS",
+          "quantity": "18 PCS",
           "rate": 82.17,
-          "amount": -2136.34
+          "amount": -1479.01
         },
         {
           "name": "SOLEA 7068 LDS MRP159/-",
@@ -6323,9 +6347,9 @@
         },
         {
           "name": "Solea 7097 Extra Large (15 Pairs) Mrp.394/-",
-          "quantity": "60 PCS",
+          "quantity": "56 PCS",
           "rate": 222.04,
-          "amount": -13322.21
+          "amount": -12434.06
         },
         {
           "name": "SOLEA 7099 LDS MRP339/-",
@@ -6485,9 +6509,9 @@
         },
         {
           "name": "SOLEA 7720 MRP349/-",
-          "quantity": "20 PCS",
+          "quantity": "16 PCS",
           "rate": 190.28,
-          "amount": -3805.53
+          "amount": -3044.42
         },
         {
           "name": "Solea 7724 Mrp339/-",
@@ -6509,9 +6533,9 @@
         },
         {
           "name": "SOLEA 7895 LDS MRP 379/-",
-          "quantity": "24 PCS",
+          "quantity": "18 PCS",
           "rate": 214.7,
-          "amount": -5152.83
+          "amount": -3864.62
         },
         {
           "name": "Solea 7906 Extra Large@219",
@@ -6659,9 +6683,9 @@
         },
         {
           "name": "Stimulus",
-          "quantity": "1007 PCS",
-          "rate": 173.59,
-          "amount": -174807.69
+          "quantity": "1378 PCS",
+          "rate": 164.9,
+          "amount": -227229.09
         },
         {
           "name": "Blot 9085 Mrp599/-",
@@ -6683,15 +6707,15 @@
         },
         {
           "name": "Paragon 1250 Gents Mrp.249/-",
-          "quantity": "432 PCS",
-          "rate": 140.84,
-          "amount": -60845.02
+          "quantity": "413 PCS",
+          "rate": 140.86,
+          "amount": -58174.59
         },
         {
           "name": "Paragon 1251 Gents Mrp249/-",
-          "quantity": "164 PCS",
-          "rate": 140.84,
-          "amount": -23098.17
+          "quantity": "559 PCS",
+          "rate": 140.89,
+          "amount": -78755.69
         },
         {
           "name": "Paragon 16060 Gents Mrp269/-",
@@ -6701,21 +6725,21 @@
         },
         {
           "name": "Paragon 1721 Boys Mrp199/-",
-          "quantity": "16 PCS",
+          "quantity": "12 PCS",
           "rate": 109.51,
-          "amount": -1752.14
+          "amount": -1314.1
         },
         {
-          "name": "Paragon 1721 Gents (30 Pairs) Mrp.219/-",
-          "quantity": "2 PCS",
-          "rate": 120.58,
-          "amount": -241.15
+          "name": "Paragon 1721 Gents @ 189/-",
+          "quantity": "1 PCS",
+          "rate": 113.5,
+          "amount": -113.5
         },
         {
           "name": "Paragon 1735 Gents Mrp219/-",
           "quantity": "1 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "Paragon 1738 Gents Mrp239/-",
@@ -6780,8 +6804,8 @@
         {
           "name": "Pg 57 Gents 169.50/-",
           "quantity": "2 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "Pg 9142 Gents Mrp699/-",
@@ -6863,9 +6887,9 @@
         },
         {
           "name": "VERTEX, SLICKERS & FENDER",
-          "quantity": "4813 PCS",
-          "rate": 194.95,
-          "amount": -938316.55
+          "quantity": "4917 PCS",
+          "rate": 194.39,
+          "amount": -955806.58
         },
         {
           "name": "ESCOUTE 0360 MRP289/-",
@@ -6970,6 +6994,12 @@
           "amount": -559.14
         },
         {
+          "name": "PARAGON 650040 GENTS MRP239/-",
+          "quantity": "66 PCS",
+          "rate": 135.39,
+          "amount": -8935.7
+        },
+        {
           "name": "Paragon 6692 Mrp349/-",
           "quantity": "3 PCS",
           "rate": 197.71,
@@ -7001,15 +7031,15 @@
         },
         {
           "name": "PARAGON COMFY 60018 MRP479/-",
-          "quantity": "48 PCS",
+          "quantity": "42 PCS",
           "rate": 241.14,
-          "amount": -11574.77
+          "amount": -10127.92
         },
         {
           "name": "PARAGON SANDAL 9094 GENTS MRP549/-",
-          "quantity": "84 PCS",
+          "quantity": "78 PCS",
           "rate": 310.89,
-          "amount": -26114.66
+          "amount": -24249.32
         },
         {
           "name": "PARAGON SANDAL 9095 GENTS MRP549/-",
@@ -7050,8 +7080,8 @@
         {
           "name": "Pg 6725 Mrp 349/-",
           "quantity": "-1 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "Pg 6790 Gents Mrp359/-",
@@ -7205,9 +7235,9 @@
         },
         {
           "name": "VEREX 6729 MRP364/-",
-          "quantity": "56 PCS",
+          "quantity": "46 PCS",
           "rate": 203.98,
-          "amount": -11423.06
+          "amount": -9383.23
         },
         {
           "name": "VEREX 6867E GENTS MRP304/-",
@@ -7241,9 +7271,9 @@
         },
         {
           "name": "VERTEX 6174E PV GENTS MRP334/-",
-          "quantity": "62 PCS",
+          "quantity": "51 PCS",
           "rate": 189.11,
-          "amount": -11725
+          "amount": -9644.76
         },
         {
           "name": "Vertex 6174 Gents Mrp339/-",
@@ -7319,15 +7349,15 @@
         },
         {
           "name": "VERTEX 6194 E PV MRP259/-",
-          "quantity": "59 PCS",
+          "quantity": "53 PCS",
           "rate": 145.25,
-          "amount": -8569.8
+          "amount": -7698.3
         },
         {
           "name": "Vertex 6195 Mrp 239/- P Vasool",
           "quantity": "-1 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "VERTEX 6197 PV 279/-",
@@ -7361,9 +7391,9 @@
         },
         {
           "name": "Vertex 6201 Gents Mrp.384/-",
-          "quantity": "62 PCS",
+          "quantity": "56 PCS",
           "rate": 215.62,
-          "amount": -13368.31
+          "amount": -12074.6
         },
         {
           "name": "Vertex 6210E Gents Mrp.364/-",
@@ -7488,8 +7518,8 @@
         {
           "name": "VERTEX 6258 GENTS MRP219/-",
           "quantity": "7 PCS",
-          "rate": 122.64,
-          "amount": -858.45
+          "rate": 123.13,
+          "amount": -861.88
         },
         {
           "name": "VERTEX 6258 GENTS MRP279/-",
@@ -7511,9 +7541,9 @@
         },
         {
           "name": "Vertex 6259 Gents Mrp.234/-PV",
-          "quantity": "57 PCS",
+          "quantity": "44 PCS",
           "rate": 132.43,
-          "amount": -7548.59
+          "amount": -5826.98
         },
         {
           "name": "VERTEX 650000 GENTS MRP289/-",
@@ -7523,15 +7553,15 @@
         },
         {
           "name": "VERTEX 650003 GENTS MRP 359/-MSD(6*9)",
-          "quantity": "72 PCS",
+          "quantity": "66 PCS",
           "rate": 202.9,
-          "amount": -14608.82
+          "amount": -13391.42
         },
         {
           "name": "VERTEX 650006 GENTS MRP269/-",
           "quantity": "11 PCS",
-          "rate": 151.93,
-          "amount": -1671.25
+          "rate": 151.97,
+          "amount": -1671.7
         },
         {
           "name": "VERTEX 650008 GENTS MRP369/-",
@@ -7547,9 +7577,9 @@
         },
         {
           "name": "VERTEX 650010 GENTS MRP359/-",
-          "quantity": "12 PCS",
+          "quantity": "48 PCS",
           "rate": 203.37,
-          "amount": -2440.44
+          "amount": -9761.85
         },
         {
           "name": "VERTEX 650021 GENTS MRP379/-",
@@ -7559,15 +7589,15 @@
         },
         {
           "name": "VERTEX 650022 MRP379/-",
-          "quantity": "36 PCS",
+          "quantity": "24 PCS",
           "rate": 214.11,
-          "amount": -7708.1
+          "amount": -5138.73
         },
         {
           "name": "VERTEX 650024 GENTS MRP369/-OLV (6*10)",
-          "quantity": "114 PCS",
+          "quantity": "102 PCS",
           "rate": 208.6,
-          "amount": -23780.54
+          "amount": -21277.32
         },
         {
           "name": "VERTEX 650026 GENTS (6X10) MRP349/-",
@@ -7583,9 +7613,9 @@
         },
         {
           "name": "VERTEX 650027 GENTS MRP319/-TAN(6*9)",
-          "quantity": "17 PCS",
+          "quantity": "11 PCS",
           "rate": 175.29,
-          "amount": -2979.89
+          "amount": -1928.16
         },
         {
           "name": "VERTEX 650028 GENTS (6X10) MRP399/",
@@ -7601,9 +7631,9 @@
         },
         {
           "name": "VERTEX 650038 MRP239/-",
-          "quantity": "25 PCS",
+          "quantity": "19 PCS",
           "rate": 133.36,
-          "amount": -3333.96
+          "amount": -2533.81
         },
         {
           "name": "VERTEX 650042 GENTS MRP299/-",
@@ -7631,9 +7661,9 @@
         },
         {
           "name": "VERTEX 6600 MRP404/-",
-          "quantity": "49 PCS",
+          "quantity": "45 PCS",
           "rate": 226.28,
-          "amount": -11087.96
+          "amount": -10182.82
         },
         {
           "name": "Vertex 66025 (30 Pairs) Mrp369/-",
@@ -7715,9 +7745,9 @@
         },
         {
           "name": "Vertex 6629 Gents Mrp.324/-",
-          "quantity": "66 PCS",
-          "rate": 183.44,
-          "amount": -12107.36
+          "quantity": "60 PCS",
+          "rate": 183.47,
+          "amount": -11008.34
         },
         {
           "name": "Vertex 6633E Gents Mrp.279/-",
@@ -7727,9 +7757,9 @@
         },
         {
           "name": "VERTEX 6634E PV MRP319/-",
-          "quantity": "18 PCS",
+          "quantity": "12 PCS",
           "rate": 175.29,
-          "amount": -3155.2
+          "amount": -2103.47
         },
         {
           "name": "Vertex 6641 Mrp289/-",
@@ -7745,15 +7775,15 @@
         },
         {
           "name": "VERTEX 6644 GENTS MRP284/-",
-          "quantity": "19 PCS",
+          "quantity": "3 PCS",
           "rate": 160.31,
-          "amount": -3045.97
+          "amount": -480.94
         },
         {
           "name": "Vertex 6645 Gents Mrp.359/-",
-          "quantity": "12 PCS",
-          "rate": 201.53,
-          "amount": -2418.34
+          "quantity": "48 PCS",
+          "rate": 202.35,
+          "amount": -9713.02
         },
         {
           "name": "Vertex 6647 Gents Mrp319/-",
@@ -7811,9 +7841,9 @@
         },
         {
           "name": "VERTEX 6662 GENTS MRP374/-",
-          "quantity": "13 PCS",
-          "rate": 206.52,
-          "amount": -2684.73
+          "quantity": "59 PCS",
+          "rate": 210.14,
+          "amount": -12398.03
         },
         {
           "name": "VERTEX 6662 GENTS MRP424/-",
@@ -7865,15 +7895,15 @@
         },
         {
           "name": "VERTEX 6673 MRP354/-",
-          "quantity": "20 PCS",
-          "rate": 200.44,
-          "amount": -4008.74
+          "quantity": "56 PCS",
+          "rate": 200.47,
+          "amount": -11226.3
         },
         {
           "name": "Vertex 6685 Gens Mrp349/-",
-          "quantity": "63 PCS",
+          "quantity": "57 PCS",
           "rate": 196.02,
-          "amount": -12349.57
+          "amount": -11173.42
         },
         {
           "name": "Vertex 6685 Gents@299",
@@ -7926,8 +7956,8 @@
         {
           "name": "VERTEX 6703 GENTS MRP334/-",
           "quantity": "-18 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "VERTEX 6704 MRP284/-",
@@ -7997,15 +8027,15 @@
         },
         {
           "name": "Vertex 6743E Gents Mrp.274/-Pv",
-          "quantity": "25 PCS",
+          "quantity": "19 PCS",
           "rate": 155.14,
-          "amount": -3878.46
+          "amount": -2947.63
         },
         {
           "name": "VERTEX 6744 GENTS MRP339/-",
-          "quantity": "84 PCS",
+          "quantity": "78 PCS",
           "rate": 192.04,
-          "amount": -16131.39
+          "amount": -14979.15
         },
         {
           "name": "Vertex 6747 Gents Mrp379/-",
@@ -8015,9 +8045,9 @@
         },
         {
           "name": "VERTEX 6749 GENTS MRP419/-",
-          "quantity": "25 PCS",
-          "rate": 236.34,
-          "amount": -5908.57
+          "quantity": "73 PCS",
+          "rate": 236.81,
+          "amount": -17287.29
         },
         {
           "name": "VERTEX 6758 GENTS MRP404/-",
@@ -8058,26 +8088,26 @@
         {
           "name": "VERTEX 6767 GENTS MRP349/-",
           "quantity": "-1 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "Vertex 6767 Mrp299/-",
-          "quantity": "549 PCS",
+          "quantity": "481 PCS",
           "rate": 168.62,
-          "amount": -92573.87
+          "amount": -81107.52
         },
         {
           "name": "VERTEX 6767 MRP354/-",
-          "quantity": "18 PCS",
+          "quantity": "10 PCS",
           "rate": 199.9,
-          "amount": -3598.11
+          "amount": -1998.95
         },
         {
           "name": "Vertex 6768 Mrp334/-",
-          "quantity": "30 PCS",
+          "quantity": "24 PCS",
           "rate": 186.21,
-          "amount": -5586.15
+          "amount": -4468.92
         },
         {
           "name": "Vertex 6772 Gents Mrp339/-",
@@ -8120,6 +8150,12 @@
           "quantity": "7 PCS",
           "rate": 158.05,
           "amount": -1106.35
+        },
+        {
+          "name": "Vertex 6784E Gents Mrp.294/-",
+          "quantity": "48 PCS",
+          "rate": 165.87,
+          "amount": -7961.69
         },
         {
           "name": "Vertex 6784 Pv Gents Mrp289/-",
@@ -8207,9 +8243,9 @@
         },
         {
           "name": "Vertex 6839E Gents (With Toe) Mrp.384/-",
-          "quantity": "54 PCS",
+          "quantity": "36 PCS",
           "rate": 217.08,
-          "amount": -11722.09
+          "amount": -7814.73
         },
         {
           "name": "Vertex 6839 Gents MRP379/- PV",
@@ -8261,9 +8297,9 @@
         },
         {
           "name": "Vertex 6868 Gents Mrp.344/-",
-          "quantity": "50 PCS",
+          "quantity": "32 PCS",
           "rate": 194.22,
-          "amount": -9711.17
+          "amount": -6215.15
         },
         {
           "name": "Vertex 6869 Mrp319/-",
@@ -8297,9 +8333,9 @@
         },
         {
           "name": "VERTEX 6879MRP329/-",
-          "quantity": "15 PCS",
+          "quantity": "11 PCS",
           "rate": 180.79,
-          "amount": -2711.83
+          "amount": -1988.68
         },
         {
           "name": "Vertex 6896 Gnts Mrp349/-",
@@ -8315,9 +8351,9 @@
         },
         {
           "name": "VERTEX 6898 MRP299/-",
-          "quantity": "9 PCS",
-          "rate": 166.84,
-          "amount": -1501.59
+          "quantity": "57 PCS",
+          "rate": 168.84,
+          "amount": -9623.82
         },
         {
           "name": "Vertex 6901 Mrp399/-",
@@ -8453,9 +8489,9 @@
         },
         {
           "name": "VERTEX 6983 PV GENTS MRP254/-",
-          "quantity": "9 PCS",
-          "rate": 143.05,
-          "amount": -1287.46
+          "quantity": "57 PCS",
+          "rate": 143.37,
+          "amount": -8171.85
         },
         {
           "name": "Vertex 6987 Mrp399/-(30 Pairs)",
@@ -8489,9 +8525,9 @@
         },
         {
           "name": "Vertex Gents 6775 Mrp.329/-",
-          "quantity": "259 PCS",
+          "quantity": "223 PCS",
           "rate": 185.92,
-          "amount": -48153.66
+          "amount": -41460.49
         },
         {
           "name": "Vertex Plus 6104 Gents Mrp549/-",
@@ -8538,14 +8574,14 @@
         {
           "name": "Vetex 6789 Gents Mrp 289/-",
           "quantity": "2 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "Walkaholic",
-          "quantity": "1777 PCS",
-          "rate": 93.62,
-          "amount": -166368.38
+          "quantity": "1740 PCS",
+          "rate": 93.19,
+          "amount": -162154.7
         },
         {
           "name": "Paealite 2517 Mrp139/-",
@@ -8603,9 +8639,9 @@
         },
         {
           "name": "PARALITE 16061 MRP364/-",
-          "quantity": "34 PCS",
+          "quantity": "22 PCS",
           "rate": 187.01,
-          "amount": -6358.18
+          "amount": -4114.12
         },
         {
           "name": "Paralite 1905E Gents Mrp.129/-",
@@ -8705,9 +8741,9 @@
         },
         {
           "name": "PG DISNEY 3675 CHILDREN MRP124/-",
-          "quantity": "60 PCS",
+          "quantity": "54 PCS",
           "rate": 64.36,
-          "amount": -3861.6
+          "amount": -3475.44
         },
         {
           "name": "PG HAWAI 16027E PV MRP199/-",
@@ -8723,15 +8759,15 @@
         },
         {
           "name": "Prg Walkaholic E1932 Gents Mrp.189/-",
-          "quantity": "8 PCS",
+          "quantity": "6 PCS",
           "rate": 99.55,
-          "amount": -796.4
+          "amount": -597.3
         },
         {
           "name": "Prg Walkaholic E1933 Gents Mrp.189/-",
-          "quantity": "11 PCS",
+          "quantity": "10 PCS",
           "rate": 101.86,
-          "amount": -1120.48
+          "amount": -1018.62
         },
         {
           "name": "Wakaholic 3661 Mrp99/-",
@@ -8765,9 +8801,9 @@
         },
         {
           "name": "Walkaholic 16036 Gents Mrp.249.50/-",
-          "quantity": "16 PCS",
+          "quantity": "15 PCS",
           "rate": 129.49,
-          "amount": -2071.84
+          "amount": -1942.35
         },
         {
           "name": "Walkaholic 16037 Mrp219/-",
@@ -8813,9 +8849,9 @@
         },
         {
           "name": "Walkaholic 1730 Gents Mrp149/-",
-          "quantity": "18 PCS",
+          "quantity": "17 PCS",
           "rate": 83.16,
-          "amount": -1496.85
+          "amount": -1413.69
         },
         {
           "name": "Walkaholic 1904 Gents@114",
@@ -8884,12 +8920,6 @@
           "amount": -561.9
         },
         {
-          "name": "Walkaholic 1963 Gents Mrp159/-",
-          "quantity": "1 PCS",
-          "rate": 90.07,
-          "amount": -90.07
-        },
-        {
           "name": "Walkaholic 1964 Mrp149/-",
           "quantity": "2 PCS",
           "rate": 84.41,
@@ -8921,15 +8951,15 @@
         },
         {
           "name": "Walkaholic 1971 Mrp149/-",
-          "quantity": "64 PCS",
+          "quantity": "62 PCS",
           "rate": 84.41,
-          "amount": -5402.33
+          "amount": -5233.51
         },
         {
           "name": "Walkaholic 1973E Mrp129/-",
           "quantity": "-1 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "WALKAHOLIC 1974 GENTS MRP139/-",
@@ -8939,9 +8969,9 @@
         },
         {
           "name": "Walkaholic 1978E Mrp139/-",
-          "quantity": "3 PCS",
+          "quantity": "1 PCS",
           "rate": 69.9,
-          "amount": -209.69
+          "amount": -69.9
         },
         {
           "name": "Walkaholic 1983 Ladies Mrp.149/-",
@@ -8981,9 +9011,9 @@
         },
         {
           "name": "Walkaholic 3605 Pv Mrp115/-",
-          "quantity": "5 PCS",
+          "quantity": "4 PCS",
           "rate": 65.15,
-          "amount": -325.75
+          "amount": -260.6
         },
         {
           "name": "Walkaholic 3653 2*5 Mrp 124/-",
@@ -9036,8 +9066,8 @@
         {
           "name": "Walkaholic 57 Gents@129",
           "quantity": "3 PCS",
-          "rate": null,
-          "amount": null
+          "rate": 0,
+          "amount": 0
         },
         {
           "name": "Walkaholic Febricated 951 Ladies @ 209/-",
@@ -9047,21 +9077,21 @@
         },
         {
           "name": "Walkholic 1904 Gents Mrp169.50/-",
-          "quantity": "12 PCS",
+          "quantity": "11 PCS",
           "rate": 93.73,
-          "amount": -1124.78
+          "amount": -1031.05
         },
         {
           "name": "Walkholic 1905E Mrp 139/-",
-          "quantity": "2 PCS",
+          "quantity": "1 PCS",
           "rate": 74.46,
-          "amount": -148.91
+          "amount": -74.46
         },
         {
           "name": "Walkholic 1907 Gents Mrp169.50/-",
-          "quantity": "20 PCS",
+          "quantity": "18 PCS",
           "rate": 85.02,
-          "amount": -1700.4
+          "amount": -1530.36
         },
         {
           "name": "Walkholic 1956 Gents Mrp149/-",
@@ -9083,9 +9113,9 @@
         },
         {
           "name": "WALKHOLIC 1978 E PV MRP129/-",
-          "quantity": "2 PCS",
+          "quantity": "-2 PCS",
           "rate": 66.95,
-          "amount": -133.9
+          "amount": 133.9
         },
         {
           "name": "Walkholic 1979E Mrp129/-",

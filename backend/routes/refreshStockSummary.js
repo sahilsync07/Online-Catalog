@@ -1,13 +1,13 @@
-// backend/routes/refreshStockSummary.js
 const express = require("express");
 const axios = require("axios");
-const fs = require("fs");
+const fs = require("fs").promises;
 const path = require("path");
 
 const router = express.Router();
 
-router.get("/", async (req, res) => {
+router.post("/", async (req, res) => {
   try {
+    // Fetch data from Tally endpoint
     const response = await axios.get(
       "http://localhost:3000/api/tally/stock-summary"
     );
@@ -17,12 +17,17 @@ router.get("/", async (req, res) => {
       __dirname,
       "../../frontend/public/stock-summary.json"
     );
-    fs.writeFileSync(
+
+    // Ensure directory exists
+    await fs.mkdir(path.dirname(filePath), { recursive: true });
+
+    // Write data asynchronously
+    await fs.writeFile(
       filePath,
       JSON.stringify(
         {
           lastUpdated: new Date().toISOString(),
-          data: data,
+          data,
         },
         null,
         2
@@ -31,9 +36,10 @@ router.get("/", async (req, res) => {
 
     res.json({
       message: "Stock summary refreshed successfully",
-      time: new Date(),
+      time: new Date().toISOString(),
     });
   } catch (err) {
+    console.error("Error refreshing stock summary:", err.message);
     res
       .status(500)
       .json({ message: "Failed to refresh data", error: err.message });

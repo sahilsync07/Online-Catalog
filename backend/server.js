@@ -1,7 +1,8 @@
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
-const tallyController = require("./tallyController");
+const tallyController = require("./controllers/tallyController");
+const refreshStockSummary = require("./routes/refreshStockSummary");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -20,7 +21,9 @@ app.get(
   "/api/tally/stock-summary/:groupName",
   tallyController.getStockSummaryByGroup
 );
-app.get("/api/tally/group-details/:groupName", tallyController.getGroupDetails);
+
+// Refresh stock summary route
+app.use("/api/refresh-stock-summary", refreshStockSummary);
 
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);

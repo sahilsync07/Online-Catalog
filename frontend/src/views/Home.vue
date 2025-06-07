@@ -6,6 +6,7 @@
         Last updated: {{ formattedTime }}
       </p>
       <button
+        v-if="isLocalDevelopment"
         @click="refreshData"
         :disabled="loading"
         class="bg-blue-600 hover:bg-blue-700 disabled:bg-blue-300 text-white text-sm px-3 py-1 rounded shadow"
@@ -16,33 +17,42 @@
       </button>
     </div>
 
-    <h1 class="text-2xl font-bold mb-6">Stock Groups</h1>
-
-    <!-- Featured Groups with Logo Only -->
-    <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-6 mb-8">
-      <div
-        v-for="group in featuredGroups"
-        :key="group.name"
-        @click="goToGroupDetails(group.key)"
-        class="cursor-pointer rounded overflow-hidden shadow-md hover:shadow-xl transition duration-300"
-      >
-        <img
-          :src="group.logo"
-          :alt="group.name"
-          class="w-full h-32 object-contain bg-white"
-        />
-      </div>
+    <!-- Loading State -->
+    <div
+      v-if="!stockGroups.length && !lastUpdated"
+      class="text-center text-gray-600"
+    >
+      Loading stock data...
     </div>
+    <div v-else>
+      <h1 class="text-2xl font-bold mb-6">Stock Groups</h1>
 
-    <!-- Other Groups as Text -->
-    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
-      <div
-        v-for="group in otherGroups"
-        :key="group.group"
-        @click="goToGroupDetails(group.group)"
-        class="cursor-pointer bg-white p-4 text-center rounded shadow hover:bg-gray-50 transition"
-      >
-        <p class="font-medium text-gray-800 text-lg">{{ group.group }}</p>
+      <!-- Featured Groups with Logo Only -->
+      <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-6 mb-8">
+        <div
+          v-for="group in featuredGroups"
+          :key="group.name"
+          @click="goToGroupDetails(group.key)"
+          class="cursor-pointer rounded overflow-hidden shadow-md hover:shadow-xl transition duration-300"
+        >
+          <img
+            :src="group.logo"
+            :alt="group.name"
+            class="w-full h-32 object-contain bg-white"
+          />
+        </div>
+      </div>
+
+      <!-- Other Groups as Text -->
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+        <div
+          v-for="group in otherGroups"
+          :key="group.group"
+          @click="goToGroupDetails(group.group)"
+          class="cursor-pointer bg-white p-4 text-center rounded shadow hover:bg-gray-50 transition"
+        >
+          <p class="font-medium text-gray-800 text-lg">{{ group.group }}</p>
+        </div>
       </div>
     </div>
   </div>
@@ -62,36 +72,48 @@ const lastUpdated = ref("");
 const loading = ref(false);
 const router = useRouter();
 
+const isLocalDevelopment = computed(() => {
+  return (
+    window.location.hostname === "localhost" ||
+    window.location.hostname === "127.0.0.1"
+  );
+});
+
 const fetchStockSummary = async () => {
   try {
     const res = await fetch("/stock-summary.json");
+    if (!res.ok)
+      throw new Error(`Failed to fetch stock summary: ${res.statusText}`);
     const json = await res.json();
+    if (!json.data || !Array.isArray(json.data)) {
+      throw new Error("Invalid stock summary format");
+    }
     stockGroups.value = json.data;
-    lastUpdated.value = json.lastUpdated;
+    lastUpdated.value = json.lastUpdated || "";
   } catch (error) {
-    console.error("Error fetching stock summary:", error);
+    console.error("Error fetching stock summary:", error.message);
+    alert(`Error loading stock data: ${error.message}`);
   }
 };
 
 const refreshData = async () => {
   loading.value = true;
   try {
-    // Call your backend API at localhost:9000 to refresh JSON
     const response = await fetch(
-      "http://localhost:9000/api/refresh-stock-summary",
+      "http://localhost:3000/api/refresh-stock-summary",
       {
         method: "POST",
       }
     );
     if (!response.ok) {
-      throw new Error("Failed to refresh data");
+      throw new Error(`Failed to refresh data: ${response.statusText}`);
     }
-
-    // Wait a little bit, then reload the updated JSON file
+    await new Promise((resolve) => setTimeout(resolve, 1000));
     await fetchStockSummary();
+    alert("Stock summary refreshed successfully!");
   } catch (err) {
-    console.error(err);
-    alert("Failed to refresh data from backend.");
+    console.error("Refresh error:", err.message);
+    alert(`Failed to refresh data: ${err.message}`);
   } finally {
     loading.value = false;
   }
@@ -122,7 +144,6 @@ const goToGroupDetails = (groupName) => {
   router.push({ name: "GroupDetails", params: { groupName } });
 };
 
-// Beautified last updated time
 const formattedTime = computed(() => {
   if (!lastUpdated.value) return "";
   const date = new Date(lastUpdated.value);

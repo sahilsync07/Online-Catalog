@@ -11,7 +11,10 @@
       <div></div>
     </div>
 
-    <div class="overflow-x-auto bg-white rounded-xl shadow p-4">
+    <div v-if="!groupDetails.length" class="text-center text-gray-600">
+      Loading group details or no items found...
+    </div>
+    <div v-else class="overflow-x-auto bg-white rounded-xl shadow p-4">
       <table class="min-w-full table-auto">
         <thead class="bg-gray-200 text-gray-700">
           <tr>
@@ -29,9 +32,11 @@
           >
             <td class="px-4 py-2 font-medium text-gray-900">{{ item.name }}</td>
             <td class="px-4 py-2 text-gray-600">{{ item.quantity }}</td>
-            <td class="px-4 py-2 text-gray-600">₹{{ item.rate }}</td>
+            <td class="px-4 py-2 text-gray-600">
+              ₹{{ formatNumber(item.rate) }}
+            </td>
             <td class="px-4 py-2 text-gray-800 font-semibold">
-              ₹{{ item.amount }}
+              ₹{{ formatNumber(item.amount) }}
             </td>
           </tr>
         </tbody>
@@ -51,12 +56,24 @@ const groupDetails = ref([]);
 const fetchGroupDetails = async () => {
   try {
     const res = await fetch("/stock-summary.json");
+    if (!res.ok)
+      throw new Error(`Failed to fetch stock summary: ${res.statusText}`);
     const json = await res.json();
-    const groupData = json.data.find((group) => group.group === groupName);
+    if (!json.data || !Array.isArray(json.data)) {
+      throw new Error("Invalid stock summary format");
+    }
+    const groupData = json.data.find(
+      (group) => group.group.toLowerCase() === groupName.toLowerCase()
+    );
     groupDetails.value = groupData ? groupData.items : [];
   } catch (error) {
-    console.error("Error fetching group details:", error);
+    console.error("Error fetching group details:", error.message);
+    alert(`Error loading group details: ${error.message}`);
   }
+};
+
+const formatNumber = (num) => {
+  return Number(num).toLocaleString("en-IN", { maximumFractionDigits: 2 });
 };
 
 onMounted(() => {
